@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [{
         "icon": "MdPlace",
         "title": "Find us",
@@ -13,4 +14,21 @@
         "title": "Mail us",
         "details": "xyz@gmail.com"
     }
+=======
+[{
+        "icon": "MdPlace",
+        "title": "Find us",
+        "details": "Mumbai, Maharashtra"
+    },
+    {
+        "icon": "IoCallSharp",
+        "title": "Call us",
+        "details": "912345678"
+    },
+    {
+        "icon": "TbMailPlus",
+        "title": "Mail us",
+        "details": "xyz@gmail.com"
+    }
+>>>>>>> fc009b3b17dafb591ed902dfa53cb35ee1b326f5
 ]
