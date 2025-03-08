@@ -1,0 +1,16 @@
+[{
+        "icon": "MdPlace",
+        "title": "Find us",
+        "details": "Mumbai, Maharashtra"
+    },
+    {
+        "icon": "IoCallSharp",
+        "title": "Call us",
+        "details": "912345678"
+    },
+    {
+        "icon": "TbMailPlus",
+        "title": "Mail us",
+        "details": "xyz@gmail.com"
+    }
+]
